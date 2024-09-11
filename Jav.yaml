@@ -1,6 +1,5 @@
 payload:
   - DOMAIN-SUFFIX,javdb.com
-  - DOMAIN-KEYWORD,avmoo
   - DOMAIN-SUFFIX,avmo.pw
   - DOMAIN-SUFFIX,avmoo.com
   - DOMAIN-SUFFIX,avmoo.net
@@ -9,3 +8,7 @@ payload:
   - DOMAIN-SUFFIX,javbus.com
   - DOMAIN-SUFFIX,jdbstatic.com
   - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-KEYWORD,avmoo
+  - DOMAIN-KEYWORD,btso
+  - DOMAIN-KEYWORD,torrentkitty
+  
