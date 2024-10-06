@@ -1,1 +1,2 @@
-rsshub.app
+payload:
+  - DOMAIN-SUFFIX,rsshub.app
